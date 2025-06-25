@@ -1,3 +1,4 @@
+#USE DATABASE
 USE RentalDB;
 
 #LOCATIONS
