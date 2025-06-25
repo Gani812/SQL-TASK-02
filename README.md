@@ -33,7 +33,7 @@ The entire SQL script is written for MySQL. I used `AUTO_INCREMENT` for primary 
 
 
 # Files Included
-- `task2.sql`: Contains all the `INSERT`, `UPDATE`, and `DELETE` queries I used
+- `Schema.sql`: Contains all the `INSERT`, `UPDATE`, and `DELETE` queries I used
 - `README.md`: This file, explaining what the task is about and what I’ve done
 
 
