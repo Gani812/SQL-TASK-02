@@ -39,4 +39,3 @@ The entire SQL script is written for MySQL. I used `AUTO_INCREMENT` for primary 
 
 # Tools Used
 - MySQL Workbench (locally)
-- Also tested in DB Fiddle (MySQL mode)
